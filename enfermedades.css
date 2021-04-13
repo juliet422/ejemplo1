@@ -198,12 +198,12 @@ body{
 	.menu{
 		position:relative;
 	.caja1{
-		width: 89%;
+		width: 87%;
 		height: 100%;
 		font-size: 18px;
 	}
 	.video{
-		width: 104%;
+		width: 370px;
 		height: 300px;	
 	}
 	.caja2{
@@ -212,7 +212,7 @@ body{
 		font-size: 18px;
 	}
 	.video2{
-		width: 104%;
+		width: 390px;
 		height: 300px;
 	}
 	.imagen2{
