@@ -163,7 +163,8 @@ body{
 		font-size: 70px;
 	}
 	.imagen1{
-		width: 450px;
+		margin: 0 15%;
+		width: 70%;
 	}
 	.caja1{
 		width: 90%;
