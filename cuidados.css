@@ -163,7 +163,7 @@ body{
 		font-size: 70px;
 	}
 	.imagen1{
-		margin: 0 15%;
+		margin: 0 7%;
 		width: 70%;
 	}
 	.caja1{
@@ -183,7 +183,7 @@ body{
 
 /*Esto es lo del hamster*/
 	.imagen3{
-		width: 85%;
+		width: 84%;
 	}
 	.caja3{
 		width: 90%;
@@ -191,7 +191,8 @@ body{
 		font-size: 18px;
 	}
 	.imagen4{
-		width: 60%;
+		margin: 0 10%;
+		width: 70%;
 	}
 	.caja4{
 		width: 90%;
