@@ -1,3 +1,18 @@
+.icon-file-text{
+	color: #EEF50C;
+}
+.icon-home3{
+	color: #640CF5;
+}
+.icon-heart{
+	color: #E90D0D;
+}
+.icon-spoon-knife{
+	color: #E10A5F;
+}
+.icon-aid-kit{
+	color: #0315B0;
+}
 @font-face{
 	font-family: tipo1;
 	src:url(fuentes/Snaps.otf);
