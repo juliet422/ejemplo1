@@ -200,22 +200,27 @@ body{
 		position: relative;
 	}
 	.caja1{
-		width: 86%;
+		width: 87%;
 		height: 100%;
 		font-size: 18px;
 	}
 	.video{
 		width: 100%;
+		height: auto;
+		padding-right: 10%;
+
 		
 
 	}
 	.caja2{
-		width: 86%;
+		width: 87%;
 		height: 100%;
 		font-size: 18px;
 	}
 	.video2{
-		width: 105%;
+		width: 100%;
+		height: auto;
+		padding-left: 2%;
 
 	}
 	.imagen2{
