@@ -205,8 +205,8 @@ body{
 		font-size: 18px;
 	}
 	.video{
-		width: 345px;
-		height: 300px;
+		width: 100%;
+		
 
 	}
 	.caja2{
@@ -215,8 +215,7 @@ body{
 		font-size: 18px;
 	}
 	.video2{
-		width: 250px;
-		height: 300px;
+		width: 105%;
 
 	}
 	.imagen2{
