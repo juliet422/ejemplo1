@@ -129,6 +129,7 @@ body{
 	padding: 25px;
 	font-size: 18px;
 	color: #F8F8F6;
+	text-align: justify;
 }
 @media screen and (max-width: 800px){
 	body{
