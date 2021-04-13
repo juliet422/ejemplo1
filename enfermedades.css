@@ -153,8 +153,6 @@ body{
 		position: relative;
 		left: 25px;
 	}
-	.nav-enlace{
-		height: 15px;}
 
 		/*Aqui termina el cuidado de perros*/
 
@@ -198,7 +196,7 @@ body{
 		font-size: 35px;
 	}
 	.menu{
-		display:block;
+		position:relative;
 	.caja1{
 		width: 90%;
 		height: 100%;
